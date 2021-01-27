@@ -1,0 +1,11 @@
+body {
+    background-color: #efefef;
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5 {
+    margin: 0 0 10px 0;
+    padding: 0
+}
